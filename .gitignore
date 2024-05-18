@@ -9,7 +9,7 @@ myenv/
 # Ignore any compiled Python files
 *.pyc
 __pycache__/
-
+shape_predictor_68_face_landmarks.dat/
 # Ignore environment-specific settings
 .env
 
